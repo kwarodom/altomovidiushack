@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="fbe176e0-be35-4349-9e99-b6a01feaa898" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/openvino_fd_myriad.py" beforeDir="false" afterPath="$PROJECT_DIR$/openvino_fd_myriad.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../serverless_mlrs/lab1/.serverless/cloudformation-template-create-stack.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../serverless_mlrs/lab1/.serverless/cloudformation-template-update-stack.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../serverless_mlrs/lab1/.serverless/helloworld.zip" beforeDir="false" />
@@ -18,26 +18,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/pi-object-detection/real_time_object_detection.py">
+        <entry file="file://$PROJECT_DIR$/openvino_fd_myriad.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="73">
-              <caret line="33" selection-start-line="32" selection-end-line="33" />
-              <folding>
-                <element signature="e#163#200#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pi-object-detection/pi_object_detection.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-21">
-              <folding>
-                <element signature="e#156#193#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="133">
+              <caret line="7" column="27" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
             </state>
           </provider>
         </entry>
@@ -59,18 +45,7 @@
       <list>
         <option value="$PROJECT_DIR$/test.py" />
         <option value="$PROJECT_DIR$/real_time_object_detection.py" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
-      <list>
-        <option value="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
-        <option value="$PROJECT_DIR$/.idea/altomovidiushack.iml" />
-        <option value="$PROJECT_DIR$/.idea/misc.xml" />
-        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
-        <option value="$PROJECT_DIR$/.idea/modules.xml" />
-        <option value="$PROJECT_DIR$/.idea/markdown-navigator/profiles_settings.xml" />
+        <option value="$PROJECT_DIR$/openvino_fd_myriad.py" />
       </list>
     </option>
   </component>
@@ -86,7 +61,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -94,15 +68,11 @@
               <item name="altomovidiushack" type="b2602c69:ProjectViewProjectNode" />
               <item name="altomovidiushack" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="altomovidiushack" type="b2602c69:ProjectViewProjectNode" />
-              <item name="altomovidiushack" type="462c0819:PsiDirectoryNode" />
-              <item name="pi-object-detection" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -141,25 +111,20 @@
       <option name="presentableId" value="Default" />
       <updated>1566629748031</updated>
       <workItem from="1566629749461" duration="2737000" />
+      <workItem from="1566658659044" duration="149000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2737000" />
+    <option name="totallyTimeSpent" value="2886000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="69" y="23" width="1586" height="1027" extended-state="0" />
+    <frame x="1785" y="24" width="1586" height="1027" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20142487" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20401554" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Python Console" />
-      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.14583333" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -167,11 +132,17 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="SciView" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.29276314" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -195,15 +166,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pi-object-detection/pi_object_detection.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-21">
-          <folding>
-            <element signature="e#156#193#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pi-object-detection/real_time_object_detection.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="73">
@@ -211,6 +173,22 @@
           <folding>
             <element signature="e#163#200#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pi-object-detection/pi_object_detection.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#156#193#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/openvino_fd_myriad.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="27" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
         </state>
       </provider>
     </entry>
